@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRkMnFrMTRxaG00czQ1N2Jvcjh5dGZ4dmRic3JreTFxdDk3ODd0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFranY5dm11YnZ5eG03OWZvZDF6bjFqdWw5bzhzNDQ0MzQyYmc1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AmC5W2bbc41wY/giphy.gif"  />
 </div>
 
 ###
@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AzaGimma-bits/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋☕</h1>
 
 ###
@@ -35,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Felipe from Chile<br>- 🔭 I’m a Software Engineering.<br>- 📚 I am currently strengthening my skills.<br>- ⚡ In my free time I play Overwatch 2 and Pokemon tcg! Also read and</p>
+<p align="left">I'm Felipe from Chile<br>- 🔭 I’m a Software Engineering.<br>- 📚 I am currently strengthening my skills.<br>- ⚡In my free time I play Overwatch 2 and Pokemon tcg! I also like to read and learn about 3D printing and technology in general.</p>
 
 ###
 
@@ -61,16 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AzaGimma-bits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
