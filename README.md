@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Felipe from Chile<br>- 🔭 I’m a Software Engineering.<br>- 📚 I am currently strengthening my skills.<br>- ⚡In my free time I play Overwatch 2 and Pokemon tcg! I also like to read and learn about 3D printing and technology in general.</p>
+<p align="left">I'm Felipe from Chile<br>- 🔭 I’m a Software Engineering.<br>- 📚 I am currently strengthening my skills.<br>- ⚡In my free time I play Pokemon tcg! I also like to read and learn about 3D printing and technology in general.</p>
 
 ###
 
